@@ -2,7 +2,7 @@
   image: bar-chart.png
   link:  ./plots/bar-chart.html
 
-- title: Boxplot
+- title: Boxplots
   image: boxplots.png
   link:  ./plots/boxplots.html
 
@@ -41,6 +41,10 @@
 - title: Lines Chart
   image: lines-chart.png
   link:  ./plots/lines-chart.html
+
+- title: Ogive Faithful
+  image: ogive-faithful.png
+  link:  ./plots/ogive-faithful.html
 
 - title: Scatter Plot
   image: scatter-plot.png
