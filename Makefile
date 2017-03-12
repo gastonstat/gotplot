@@ -1,8 +1,11 @@
 
-all: plots/*.md
-#images/*.png: code/plots/*.r
-#	cd code/plots; Rscript *.r
-#	cd code/plots; mv *.png ../../images/
+all: plots/*.md images/*.png
+
+
+images/*.png: code/rplots/*.R
+	cd code/rplots; Rscript *.R
+	cd code/rplots; mv *.png ../../images/
+
 
 _data/plots.yml: code/scripts/plots_yml.R code/rplots/*.R
 	cd code/scripts; Rscript plots_yml_generator.R
