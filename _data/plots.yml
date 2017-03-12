@@ -1,56 +1,56 @@
-- title: Bar Chart-Plot
-  image: bar-chart-plot.png
-  link:  ./plots/bar-chart-plot.html
+- title: Bar Chart
+  image: bar-chart.png
+  link:  ./plots/bar-chart.html
 
-- title: Boxplot Plot
-  image: boxplot-plot.png
-  link:  ./plots/boxplot-plot.html
+- title: Boxplot
+  image: boxplot.png
+  link:  ./plots/boxplot.html
 
-- title: Bullet Chart-Plot
-  image: bullet-chart-plot.png
-  link:  ./plots/bullet-chart-plot.html
+- title: Bullet Chart
+  image: bullet-chart.png
+  link:  ./plots/bullet-chart.html
 
-- title: Density Plot
-  image: density-plot.png
-  link:  ./plots/density-plot.html
+- title: Density
+  image: density.png
+  link:  ./plots/density.html
 
-- title: Error Bars-Plot
-  image: error-bars-plot.png
-  link:  ./plots/error-bars-plot.html
+- title: Error Bars
+  image: error-bars.png
+  link:  ./plots/error-bars.html
 
-- title: Gauge Plot
-  image: gauge-plot.png
-  link:  ./plots/gauge-plot.html
+- title: Gauge
+  image: gauge.png
+  link:  ./plots/gauge.html
 
-- title: Grouped Bar-Chart-Plot
-  image: grouped-bar-chart-plot.png
-  link:  ./plots/grouped-bar-chart-plot.html
+- title: Grouped Bar-Chart
+  image: grouped-bar-chart.png
+  link:  ./plots/grouped-bar-chart.html
 
-- title: Heatmap Ggplot-Plot
-  image: heatmap-ggplot-plot.png
-  link:  ./plots/heatmap-ggplot-plot.html
+- title: Heatmap Ggplot
+  image: heatmap-ggplot.png
+  link:  ./plots/heatmap-ggplot.html
 
-- title: Heatmap Plot
-  image: heatmap-plot.png
-  link:  ./plots/heatmap-plot.html
+- title: Heatmap
+  image: heatmap.png
+  link:  ./plots/heatmap.html
 
-- title: Histogram Plot
-  image: histogram-plot.png
-  link:  ./plots/histogram-plot.html
+- title: Histogram
+  image: histogram.png
+  link:  ./plots/histogram.html
 
-- title: Lines Chart-Plot
-  image: lines-chart-plot.png
-  link:  ./plots/lines-chart-plot.html
+- title: Lines Chart
+  image: lines-chart.png
+  link:  ./plots/lines-chart.html
 
-- title: Scatter Plot-Plot
-  image: scatter-plot-plot.png
-  link:  ./plots/scatter-plot-plot.html
+- title: Scatter Plot
+  image: scatter-plot.png
+  link:  ./plots/scatter-plot.html
 
-- title: Stacked Chart-Plot
-  image: stacked-chart-plot.png
-  link:  ./plots/stacked-chart-plot.html
+- title: Stacked Chart
+  image: stacked-chart.png
+  link:  ./plots/stacked-chart.html
 
-- title: Step Chart-Plot
-  image: step-chart-plot.png
-  link:  ./plots/step-chart-plot.html
+- title: Step Chart
+  image: step-chart.png
+  link:  ./plots/step-chart.html
 
