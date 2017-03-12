@@ -12,7 +12,7 @@ img_names <- str_sub(Rfiles, end = -3)
 images <- paste0(img_names, ".png")
 
 # separate composite names
-img_titles <- str_to_title(str_replace(img_names, '_', ' '))
+img_titles <- str_to_title(str_replace(img_names, '-', ' '))
 
 # output files
 outfiles <- paste("../../plots/", img_names, ".md", sep = '')
