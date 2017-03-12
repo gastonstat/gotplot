@@ -6,7 +6,7 @@ images <- system("ls ../../images/", intern = TRUE)
 img_names <- str_sub(images, end = -5)
 
 # separate composite names
-img_titles <- str_to_title(str_replace(img_names, '_', ' '))
+img_titles <- str_to_title(str_replace(img_names, '-', ' '))
 
 # file name 'plots.yml'
 outfile <- "../../_data/plots.yml"
