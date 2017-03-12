@@ -4,11 +4,11 @@ all: plots/*.md
 #	cd code/plots; Rscript *.r
 #	cd code/plots; mv *.png ../../images/
 
-_data/plots.yml: code/scripts/plots_yml.R
+_data/plots.yml: code/scripts/plots_yml.R code/rplots/*.R
 	cd code/scripts; Rscript plots_yml_generator.R
 
 
-plots/*.md: code/scripts/md_files_generator.R
+plots/*.md: code/scripts/md_files_generator.R code/rplots/*.R
 	cd code/scripts; Rscript md_files_generator.R
 
 
