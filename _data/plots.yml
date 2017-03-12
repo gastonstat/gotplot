@@ -3,8 +3,8 @@
   link:  ./plots/bar-chart.html
 
 - title: Boxplot
-  image: boxplot.png
-  link:  ./plots/boxplot.html
+  image: boxplots.png
+  link:  ./plots/boxplots.html
 
 - title: Bullet Chart
   image: bullet-chart.png
