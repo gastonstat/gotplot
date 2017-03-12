@@ -1,0 +1,56 @@
+- title: Bar-Chart-Plot
+  image: bar-chart-plot.png
+  link:  ./plots/bar-chart-plot.html
+
+- title: Boxplot-Plot
+  image: boxplot-plot.png
+  link:  ./plots/boxplot-plot.html
+
+- title: Bullet-Chart-Plot
+  image: bullet-chart-plot.png
+  link:  ./plots/bullet-chart-plot.html
+
+- title: Density-Plot
+  image: density-plot.png
+  link:  ./plots/density-plot.html
+
+- title: Error-Bars-Plot
+  image: error-bars-plot.png
+  link:  ./plots/error-bars-plot.html
+
+- title: Gauge-Plot
+  image: gauge-plot.png
+  link:  ./plots/gauge-plot.html
+
+- title: Grouped-Bar-Chart-Plot
+  image: grouped-bar-chart-plot.png
+  link:  ./plots/grouped-bar-chart-plot.html
+
+- title: Heatmap-Ggplot-Plot
+  image: heatmap-ggplot-plot.png
+  link:  ./plots/heatmap-ggplot-plot.html
+
+- title: Heatmap-Plot
+  image: heatmap-plot.png
+  link:  ./plots/heatmap-plot.html
+
+- title: Histogram-Plot
+  image: histogram-plot.png
+  link:  ./plots/histogram-plot.html
+
+- title: Lines-Chart-Plot
+  image: lines-chart-plot.png
+  link:  ./plots/lines-chart-plot.html
+
+- title: Scatter-Plot-Plot
+  image: scatter-plot-plot.png
+  link:  ./plots/scatter-plot-plot.html
+
+- title: Stacked-Chart-Plot
+  image: stacked-chart-plot.png
+  link:  ./plots/stacked-chart-plot.html
+
+- title: Step-Chart-Plot
+  image: step-chart-plot.png
+  link:  ./plots/step-chart-plot.html
+

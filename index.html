@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+
+<main class="shelf">
+  {% for plot in site.data.plots  %}
+  <article class="plot">
+    <figure class="plot-cover">
+      <a href="{{ plot.link }}">
+        <img src="./images/{{ plot.image }}" alt="{{ plot.title }}">
+      </a>
+    </figure>
+    <div class="plot-info">
+      <h2>{{ plot.title }}</h2>
+    </div>
+  </article>
+  {% endfor %}
+</main>

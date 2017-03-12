@@ -1,0 +1,13 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Site settings
+title: gotplot
+description: >
+  Abstract paintings and plots in R by Gaston Sanchez
+baseurl: "http://gastonsanchez.com/gotplot"
+url: "http://gastonsanchez.com/gotplot"
+
+sass:
+  style: compressed
