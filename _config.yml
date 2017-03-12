@@ -5,7 +5,7 @@ highlighter:      rouge
 # Site settings
 title: gotplot
 description: >
-  Abstract paintings and plots in R by Gaston Sanchez
+  Various plots and charts in R by Gaston Sanchez
 baseurl: "http://gastonsanchez.com/gotplot"
 url: "http://gastonsanchez.com/gotplot"
 
