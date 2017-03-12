@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Scatter-Plot"
+title: "Scatter Plot"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Scatter-Plot 
+### Scatter Plot 
 
-![Scatter-Plot](../images/scatter-plot.png) 
+![Scatter Plot](../images/scatter-plot.png) 
 
 -----
 

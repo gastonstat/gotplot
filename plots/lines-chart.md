@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Lines-Chart"
+title: "Lines Chart"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Lines-Chart 
+### Lines Chart 
 
-![Lines-Chart](../images/lines-chart.png) 
+![Lines Chart](../images/lines-chart.png) 
 
 -----
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Heatmap-Ggplot"
+title: "Heatmap Ggplot"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Heatmap-Ggplot 
+### Heatmap Ggplot 
 
-![Heatmap-Ggplot](../images/heatmap-ggplot.png) 
+![Heatmap Ggplot](../images/heatmap-ggplot.png) 
 
 -----
 

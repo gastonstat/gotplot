@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Bar-Chart"
+title: "Bar Chart"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Bar-Chart 
+### Bar Chart 
 
-![Bar-Chart](../images/bar-chart.png) 
+![Bar Chart](../images/bar-chart.png) 
 
 -----
 

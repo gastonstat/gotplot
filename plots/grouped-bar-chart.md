@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Grouped-Bar-Chart"
+title: "Grouped Bar-Chart"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Grouped-Bar-Chart 
+### Grouped Bar-Chart 
 
-![Grouped-Bar-Chart](../images/grouped-bar-chart.png) 
+![Grouped Bar-Chart](../images/grouped-bar-chart.png) 
 
 -----
 

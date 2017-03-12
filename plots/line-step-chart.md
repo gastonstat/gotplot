@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Line-Step-Chart"
+title: "Line Step-Chart"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Line-Step-Chart 
+### Line Step-Chart 
 
-![Line-Step-Chart](../images/line-step-chart.png) 
+![Line Step-Chart](../images/line-step-chart.png) 
 
 -----
 

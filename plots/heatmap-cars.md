@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Heatmap-Cars"
+title: "Heatmap Cars"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Heatmap-Cars 
+### Heatmap Cars 
 
-![Heatmap-Cars](../images/heatmap-cars.png) 
+![Heatmap Cars](../images/heatmap-cars.png) 
 
 -----
 

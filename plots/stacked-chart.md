@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Stacked-Chart"
+title: "Stacked Chart"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Stacked-Chart 
+### Stacked Chart 
 
-![Stacked-Chart](../images/stacked-chart.png) 
+![Stacked Chart](../images/stacked-chart.png) 
 
 -----
 

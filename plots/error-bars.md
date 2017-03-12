@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Error-Bars"
+title: "Error Bars"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Error-Bars 
+### Error Bars 
 
-![Error-Bars](../images/error-bars.png) 
+![Error Bars](../images/error-bars.png) 
 
 -----
 

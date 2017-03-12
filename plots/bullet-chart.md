@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Bullet-Chart"
+title: "Bullet Chart"
 ---
 
 # [Got Plot](/gotplot) 
 
-### Bullet-Chart 
+### Bullet Chart 
 
-![Bullet-Chart](../images/bullet-chart.png) 
+![Bullet Chart](../images/bullet-chart.png) 
 
 -----
 
