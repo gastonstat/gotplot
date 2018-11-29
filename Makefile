@@ -1,10 +1,13 @@
+rfiles = $(wildcard *.R)
+imgs = $(wildcard *.png)
+
 
 all: plots/*.md images/*.png
 
 
 images/*.png: code/rplots/*.R
 	cd code/rplots; Rscript *.R
-	cd code/rplots; mv *.png ../../images/
+	cd code/rplots; mv *.png ../../images/.
 
 
 _data/plots.yml: code/scripts/plots_yml.R code/rplots/*.R
