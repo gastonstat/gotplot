@@ -46,6 +46,10 @@
   image: ogive-faithful.png
   link:  ./plots/ogive-faithful.html
 
+- title: Points Boxplot
+  image: points-boxplot.png
+  link:  ./plots/points-boxplot.html
+
 - title: Scatter Plot
   image: scatter-plot.png
   link:  ./plots/scatter-plot.html
