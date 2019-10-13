@@ -6,7 +6,7 @@ highlighter:      rouge
 title: gotplot
 description: >
   Various plots and charts in R by Gaston Sanchez
-baseurl: "http://gastonsanchez.com/gotplot"
+baseurl: "/gotplot"
 url: "http://gastonsanchez.com/gotplot"
 
 sass:
