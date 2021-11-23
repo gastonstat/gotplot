@@ -7,7 +7,7 @@ title: gotplot
 description: >
   Various plots and charts in R by Gaston Sanchez
 baseurl: "/gotplot"
-url: "http://gastonsanchez.com/gotplot"
+url: "https://www.gastonsanchez.com"
 
 sass:
   style: compressed
